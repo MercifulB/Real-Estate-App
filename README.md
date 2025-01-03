@@ -1,7 +1,7 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 # Real Estate App 🏡
 
-A full-stack Real Estate application built with **React Native**, **Expo SDK 52**, and **TypeScript**, featuring Google authentication, dynamic property listings, and customizable user profiles. Designed with modern tools like **Appwrite**, **Tailwind CSS**, and **Nativewind**, this app prioritizes scalability, efficient data fetching, and clean architecture for an exceptional user experience. 🚀
+ReState is a full-stack Real Estate application built with **React Native**, **Expo SDK 52**, and **TypeScript**, featuring Google authentication, dynamic property listings, and customizable user profiles. Designed with modern tools like **Appwrite**, **Tailwind CSS**, and **Nativewind**, this app prioritizes scalability, efficient data fetching, and clean architecture for an exceptional user experience. 🚀
 
 ---
 
