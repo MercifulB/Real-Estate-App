@@ -1,5 +1,3 @@
-# React Native Real Estate App
-
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 # Real Estate App 🏡
 
@@ -36,9 +34,11 @@ A full-stack Real Estate application built with **React Native**, **Expo SDK 52*
 
 | Feature         | Screenshot                                  |
 |------------------|---------------------------------------------|
-| **Home Page**    | ![Home Page](./screenshots/home.png)       |
-| **Explore Page** | ![Explore Page](./screenshots/explore.png) |
-| **Property Page**| ![Property Page](./screenshots/property.png) |
+| **Sign In Page**    | ![Home Page](./screenshots/house_app1.jpg)       |
+| **Home Page**    | ![Home Page](./screenshots/house_app2.jpg)       |
+| **Explore Page** | ![Explore Page](./screenshots/house_app3.jpg) |
+| **Property Page**| ![Property Page](./screenshots/house_app4.jpg) |
+| **AppWrit Database**| ![Property Page](./screenshots/house_appwrite.png) |
 
 ---
 
