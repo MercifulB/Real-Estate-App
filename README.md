@@ -53,4 +53,4 @@ Real-Estate-App/
 ```
 
 ## 🌐 Demo
-<video width="600" controls> <source src="./screenshots/Edited_20250103_021818 (1).mp4" type="video/mp4"> Your browser does not support the video tag. </video> 
+[Watch the demo video](./screenshots/Edited_20250103_021818%20(1).mp4)
