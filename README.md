@@ -1,5 +1,47 @@
 # React Native Real Estate App
 
+ReState is a full-stack Real Estate application built with React Native, Expo SDK 52, and TypeScript, featuring Google authentication, dynamic property listings, and customizable user profiles. Key features include a powerful home page with search and filters, an explore page for browsing properties, detailed property pages, and profile management. Designed with modern tools like Appwrite, Tailwind CSS, and Nativewind, the app prioritizes scalability, efficient data fetching, and clean architecture for an exceptional user experience.
+
+✨ Features
+🔑 Google Authentication: Secure and seamless user sign-ins using Google.
+🏠 Home Page: Discover the latest and recommended properties with advanced search and filter functionality.
+🔍 Explore Page: Browse properties in a clean, user-friendly interface.
+📄 Property Details Page: View comprehensive property information, including images, features, and pricing.
+👤 Profile Page: Customizable user settings and profile management.
+⚡ Centralized Data Fetching: Inspired by TanStack’s useQuery, enabling efficient API calls.
+📱 Optimized for Mobile: A responsive and performant app leveraging React Native and Expo.
+
+🛠️ Tech Stack
+| Tool/Framework   | Description                                   |
+|-------------------|-----------------------------------------------|
+| **React Native**  | Framework for building cross-platform apps.  |
+| **Expo SDK 52**   | Development platform for React Native apps.  |
+| **TypeScript**    | Statically typed JavaScript for scalability. |
+| **Appwrite**      | Backend-as-a-service for authentication and database management. |
+| **Tailwind CSS**  | Utility-first CSS framework for styling.     |
+| **Nativewind**    | Tailwind CSS for React Native.               |
+
+
+
+🏗️ How It Works
+Authentication: Users can log in securely using Google authentication powered by Appwrite.
+Dynamic Listings: Property listings are dynamically fetched and displayed, categorized by type and features.
+Personalized Experience: User profiles store preferences and settings for a tailored experience.
+Data Fetching: A custom-built centralized data fetching solution ensures smooth API communication.
+
+
+📂 Folder Structure
+Real-Estate-App/
+├── components/         # Reusable components (Cards, Filters, etc.)
+├── constants/          # Static data (Icons, Images, etc.)
+├── lib/                # Custom hooks and API calls
+├── screens/            # App screens (Home, Explore, Profile, etc.)
+├── styles/             # Tailwind CSS configuration
+├── App.tsx             # Entry point of the app
+├── package.json        # Project dependencies
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
