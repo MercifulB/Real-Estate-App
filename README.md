@@ -32,13 +32,10 @@ A full-stack Real Estate application built with **React Native**, **Expo SDK 52*
 
 ## 📸 Screenshots
 
-| Feature             | Screenshot                                                                                   |
-|----------------------|---------------------------------------------------------------------------------------------|
-| **Sign In Page**     | <img src="./screenshots/house_app1.jpg" alt="Sign In Page" width="300"/>                    |
-| **Home Page**        | <img src="./screenshots/house_app2.jpg" alt="Home Page" width="300"/>                       |
-| **Explore Page**     | <img src="./screenshots/house_app3.jpg" alt="Explore Page" width="300"/>                    |
-| **Property Page**    | <img src="./screenshots/house_app4.jpg" alt="Property Page" width="300"/>                   |
-| **AppWrite Database**| <img src="./screenshots/house_appwrite.png" alt="AppWrite Database" width="300"/>           |
+| Feature             | Sign In Page                              | Home Page                               | Explore Page                            | Property Page                           | AppWrite Database                        |
+|----------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------|
+| **Screenshot**       | <img src="./screenshots/house_app1.jpg" alt="Sign In Page" width="200"/> | <img src="./screenshots/house_app2.jpg" alt="Home Page" width="200"/> | <img src="./screenshots/house_app3.jpg" alt="Explore Page" width="200"/> | <img src="./screenshots/house_app4.jpg" alt="Property Page" width="200"/> | <img src="./screenshots/house_appwrite.png" alt="AppWrite Database" width="200"/> |
+
 
 
 ---
