@@ -40,9 +40,18 @@ A full-stack Real Estate application built with **React Native**, **Expo SDK 52*
 
 ---
 
-## 🚀 Installation & Setup
+## 🏗️ Folder Structure
+Real-Estate-App/
+├── components/         # Reusable components (Cards, Filters, etc.)
+├── constants/          # Static data (Icons, Images, etc.)
+├── lib/                # Custom hooks and API calls
+├── screens/            # App screens (Home, Explore, Profile, etc.)
+├── styles/             # Tailwind CSS configuration
+├── App.tsx             # Entry point of the app
+├── package.json        # Project dependencies
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Real-Estate-App.git
-   cd Real-Estate-App
+## 🌐 Demo
+<video width="600" controls>
+  <source src="./screenshots/Edited_20250103_021818 (1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
